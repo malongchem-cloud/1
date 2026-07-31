@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#084c3c"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2">
+    <path d="M100 80 220 30v150L100 230z"/>
+    <path d="M220 30 340 80v150l-120 50z"/>
+    <path d="M1020 470l120-50v150l-120 50z"/>
+    <path d="M1020 470l-120-50v150l120 50z"/>
+    <path d="M980 300l60-30v60l-60 30z"/>
+    <path d="M1040 270l60 30v60l-60-30z"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="100" cy="80" r="8"/>
+    <circle cx="220" cy="30" r="8"/>
+    <circle cx="340" cy="80" r="8"/>
+    <circle cx="220" cy="230" r="8"/>
+    <circle cx="980" cy="300" r="8"/>
+    <circle cx="1040" cy="270" r="8"/>
+    <circle cx="1100" cy="300" r="8"/>
+  </g>
+  <text x="90" y="300" fill="#d8efe6" font-family="Arial, sans-serif" font-size="34" font-weight="700">CHANGZHOU MALONG CHEMICALS CO., LTD.</text>
+  <text x="90" y="390" fill="#ffffff" font-family="Arial, sans-serif" font-size="72" font-weight="800">Chemical Intermediates</text>
+  <text x="90" y="470" fill="#a9c9bc" font-family="Arial, sans-serif" font-size="36">Exact CAS search | Pharma, agrochemical &amp; fine chemical</text>
+  <rect x="90" y="520" width="280" height="12" rx="6" fill="#b97416"/>
+</svg>
