@@ -1176,6 +1176,16 @@ a:hover {
   color: var(--color-text-muted);
 }
 
+.faq-more {
+  text-align: center;
+  margin-top: 1.2rem;
+}
+
+.faq-more a {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
 /* Search results */
 .results-box {
   min-height: 200px;
