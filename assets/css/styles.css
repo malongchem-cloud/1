@@ -618,6 +618,7 @@ a:hover {
 
 .product-card {
   display: block;
+  position: relative;
   background: #fff;
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
@@ -639,6 +640,29 @@ a:hover {
   font-size: 0.98rem;
   line-height: 1.35;
   color: var(--color-primary);
+}
+
+.featured-badge {
+  display: inline-block;
+  margin-top: 0.55rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: var(--color-accent);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.product-card .featured-badge {
+  position: absolute;
+  top: 0.9rem;
+  right: 0.9rem;
+  margin: 0;
+}
+
+.product-head .featured-badge {
+  margin-left: 0.6rem;
+  vertical-align: middle;
 }
 
 .cas-badge {
