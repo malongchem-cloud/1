@@ -92,7 +92,7 @@
   }
 
   function wireInquiryForms() {
-    var whatsappNumber = "8613584535752";
+    var whatsappNumber = "8613218875239";
     var email = "info@malongchemicals.com";
     document.querySelectorAll("form.inquiry-form").forEach(function (form) {
       var whatsappButton = form.querySelector(".btn-whatsapp");
