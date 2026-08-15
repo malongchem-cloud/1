@@ -584,6 +584,49 @@ a:hover {
   font-size: 0.9rem;
 }
 
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.guide-card {
+  min-height: 220px;
+}
+
+.guide-card p {
+  margin: 0;
+}
+
+.guide-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.guide-main {
+  min-width: 0;
+}
+
+.guide-aside {
+  position: sticky;
+  top: 100px;
+  display: grid;
+  gap: 1.25rem;
+}
+
+.guide-cats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.btn-sm {
+  padding: 0.5rem 0.85rem;
+  font-size: 0.85rem;
+}
+
 .chips {
   display: flex;
   flex-wrap: wrap;
@@ -1389,17 +1432,20 @@ a:hover {
   }
 
   .category-grid,
-  .featured-grid {
+  .featured-grid,
+  .guide-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .product-layout,
   .contact-grid,
-  .content-grid {
+  .content-grid,
+  .guide-layout {
     grid-template-columns: 1fr;
   }
 
-  .product-aside {
+  .product-aside,
+  .guide-aside {
     position: static;
   }
 
@@ -1450,6 +1496,7 @@ a:hover {
 
   .category-grid,
   .featured-grid,
+  .guide-grid,
   .why-grid,
   .why-panel,
   .form-actions {
