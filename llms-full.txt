@@ -2,7 +2,7 @@
 
 > Changzhou Malong Chemicals Co., Ltd. supplies CAS-listed chemical intermediates for pharmaceutical, agrochemical and fine chemical synthesis. Product pages are published in English, Spanish and Russian with CAS search.
 
-Last updated: 2026-08-18
+Last updated: 2026-08-26
 
 ## Company
 
@@ -41,6 +41,11 @@ Last updated: 2026-08-18
 - [Indazole and Indole Intermediates for Medicinal Chemistry](https://www.malongchemicals.com/guides/indazole-indole-intermediates-medicinal-chemistry/)
 - [CAS Number Search: How to Find and Verify Chemical Products](https://www.malongchemicals.com/guides/cas-search-guide-chemical-procurement/)
 - [Custom Synthesis and Fine Chemical Supply from Changzhou Malong Chemicals](https://www.malongchemicals.com/guides/custom-synthesis-fine-chemicals/)
+- [5-Bromo-1H-benzimidazole (CAS 4887-88-1): Applications and Supplier Guide](https://www.malongchemicals.com/guides/5-bromo-1h-benzimidazole-applications/)
+- [5-Bromo-2-methyl-1H-benzimidazole (CAS 1964-77-8): Applications and Supplier Guide](https://www.malongchemicals.com/guides/5-bromo-2-methyl-benzimidazole-applications/)
+- [1-Bromo-2,4-dimethoxybenzene (CAS 17715-69-4): Applications and Supplier Guide](https://www.malongchemicals.com/guides/1-bromo-2-4-dimethoxybenzene-applications/)
+- [4-Bromoveratrole (CAS 2859-78-1): Applications and Supplier Guide](https://www.malongchemicals.com/guides/4-bromoveratrole-applications/)
+- [2-Bromo-1,4-dimethoxybenzene (CAS 25245-34-5): Applications and Supplier Guide](https://www.malongchemicals.com/guides/2-bromo-1-4-dimethoxybenzene-applications/)
 
 ## Languages
 
