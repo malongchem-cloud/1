@@ -973,6 +973,15 @@ a:hover {
   min-width: 0;
 }
 
+.product-hero-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 2rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
 .prose {
   max-width: 780px;
 }

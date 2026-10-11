@@ -2,7 +2,7 @@
 
 > Changzhou Malong Chemicals Co., Ltd. supplies CAS-listed chemical intermediates for pharmaceutical, agrochemical and fine chemical synthesis. Product pages are published in English, Spanish and Russian with CAS search.
 
-Last updated: 2026-08-26
+Last updated: 2026-10-11
 
 ## Company
 
@@ -46,12 +46,445 @@ Last updated: 2026-08-26
 - [1-Bromo-2,4-dimethoxybenzene (CAS 17715-69-4): Applications and Supplier Guide](https://www.malongchemicals.com/guides/1-bromo-2-4-dimethoxybenzene-applications/)
 - [4-Bromoveratrole (CAS 2859-78-1): Applications and Supplier Guide](https://www.malongchemicals.com/guides/4-bromoveratrole-applications/)
 - [2-Bromo-1,4-dimethoxybenzene (CAS 25245-34-5): Applications and Supplier Guide](https://www.malongchemicals.com/guides/2-bromo-1-4-dimethoxybenzene-applications/)
+- [Benzoic Acids and Esters for Pharmaceutical and Agrochemical Synthesis](https://www.malongchemicals.com/guides/benzoic-acids-esters-applications/)
+- [Benzothiadiazole Intermediates for OLED, OPV and Organic Electronics](https://www.malongchemicals.com/guides/benzothiadiazole-oled-opv-intermediates/)
+- [Thiophene Intermediates for Pharmaceuticals and Agrochemicals](https://www.malongchemicals.com/guides/thiophene-intermediates-pharmaceutical-agrochemical/)
 
 ## Languages
 
 - English: https://www.malongchemicals.com/
 - Spanish: https://www.malongchemicals.com/es/
 - Russian: https://www.malongchemicals.com/ru/
+
+## Technical Guide Details
+
+### What Is a CAS Number and Why It Matters in Chemical Procurement
+A CAS number is the unique Chemical Abstracts Service identifier used to specify chemical products. Learn how buyers use CAS numbers to verify and purchase intermediates.
+A CAS Registry Number is a unique numeric identifier assigned to chemical substances by Chemical Abstracts Service. For procurement teams, it is the fastest way to remove ambiguity between product names, synonyms and commercial grades.
+#### How a CAS Registry Number works
+CAS numbers use a three-part hyphenated format, such as 4964-71-0. The number does not encode molecular structure; it points to a specific substance record in the CAS registry.
+- CAS numbers remove ambiguity between names and synonyms
+- The same compound can have many trade names but only one CAS number
+- CAS search is the fastest way to verify the exact product you want to buy
+#### Why CAS verification matters in procurement
+Buyers use CAS numbers to compare quotations, review certificates of analysis and confirm regulatory documents. A mismatch between the product name and the CAS number can lead to the wrong intermediate reaching the pilot plant or production line.
+#### Searching by CAS on malongchemicals.com
+Enter the CAS number in the search bar and the site will take you directly to the matching product page. There you can check formula, molecular weight, purity and application notes before sending an inquiry.
+#### Frequently asked questions
+- Q: Is a CAS number the same as a product code?
+  A: No. A CAS number identifies the chemical substance, while a supplier product code is an internal catalogue reference. The CAS number is the more reliable identifier for specification matching.
+- Q: Can two different products share the same CAS number?
+  A: No. Each CAS Registry Number is unique to one substance record. If two quotations show the same CAS number, the intended compound should be identical.
+- Q: Do I need a CAS number to request a quote?
+  A: It is recommended. Sharing the CAS number with quantity, purity and packaging requirements helps the supplier respond with a more accurate quotation.
+- Guide URL: https://www.malongchemicals.com/guides/what-is-a-cas-number/
+
+### How to Buy Chemical Intermediates from China: A Practical Guide
+A step-by-step guide for international buyers sourcing CAS-listed chemical intermediates from China, including specifications, quotations, samples, packaging and shipping.
+Buying chemical intermediates from China becomes much smoother when the specification is clear and the CAS number is verified. This guide covers the information buyers should prepare before contacting a supplier.
+#### Define your specification first
+Before contacting suppliers, write down the CAS number, target purity, quantity, packaging preference and destination country. A precise specification helps avoid quotation drift and shortens the confirmation cycle.
+#### What to include in an inquiry
+- CAS number and product name
+- Quantity in grams or kilograms
+- Target purity and required documents such as COA or HPLC data
+- Packaging type and estimated shipping terms
+- Timeline and destination country
+#### From quotation to order
+After receiving the quotation, confirm sample policy, MOQ, payment terms, packaging and delivery lead time. Keep the CAS number and specification in the order confirmation so both sides are aligned.
+#### Frequently asked questions
+- Q: Do you supply small research quantities?
+  A: Contact us with the CAS number and target quantity. Our sales team can confirm current availability, packaging and MOQ for the specific product.
+- Q: Can you provide a certificate of analysis?
+  A: Please request COA and purity data together with your quotation inquiry so the supplier can confirm the documentation available for the batch.
+- Q: What information speeds up a quotation?
+  A: The most useful inquiry includes CAS number, quantity, purity target, packaging preference and destination country.
+- Guide URL: https://www.malongchemicals.com/guides/how-to-buy-chemical-intermediates-from-china/
+
+### Quinoline Intermediates for Pharmaceutical Synthesis
+Quinoline and isoquinoline intermediates are used in antimalarial, antimicrobial and kinase inhibitor chemistry. See representative CAS products and how to select them.
+Quinoline and isoquinoline scaffolds appear across pharmaceutical and agrochemical development. Halogenated, amino and methoxy derivatives provide the functional handles needed for further synthesis.
+#### Why quinoline intermediates matter
+The quinoline family supports antimalarial APIs such as Primaquine and Tafenoquine, fluoroquinolone antibiotics such as Ciprofloxacin and Levofloxacin, and quinoline-based antimicrobial and kinase inhibitor research.
+#### Representative quinoline building blocks
+- 5-Bromoquinoline (CAS 4964-71-0): brominated quinoline intermediate for antimalarial and antimicrobial quinoline API families
+- 8-Iodoquinoline (CAS 1006-47-9): iodinated quinoline building block for functionalization and medicinal chemistry
+- 6-Methoxy-8-aminoquinoline (CAS 90-52-8): methoxy-aminoquinoline intermediate used in antimalarial chemistry such as the Primaquine family
+#### How to select a quinoline building block
+Check the substitution position, halogen type and downstream target. Halogenated quinolines are usually selected for cross-coupling, while amino or methoxy derivatives are chosen when the functionality is already present in the target API.
+#### Frequently asked questions
+- Q: What are quinoline intermediates used for?
+  A: They are used as building blocks for antimalarial, antimicrobial and kinase inhibitor APIs, as well as agrochemical and specialty chemical synthesis.
+- Q: How do I choose between bromo and iodo quinoline intermediates?
+  A: Iodo derivatives are generally more reactive in cross-coupling, while bromo derivatives offer a good balance of reactivity and stability. The choice depends on your synthesis route.
+- Q: Can I request a specification for a quinoline intermediate?
+  A: Yes. Send the CAS number and target quantity to our sales team to confirm purity, packaging and current availability.
+- Guide URL: https://www.malongchemicals.com/guides/quinoline-intermediates-pharmaceutical-synthesis/
+
+### 5-Bromoquinoline (CAS 4964-71-0): Applications and Supplier Guide
+5-Bromoquinoline is a brominated quinoline intermediate used in pharmaceutical synthesis. Compare specifications, purity and sourcing notes for CAS 4964-71-0.
+5-Bromoquinoline is one of our promoted quinoline building blocks. This guide summarizes the product specification, typical application areas and the information to confirm before ordering.
+#### What is 5-bromoquinoline?
+5-Bromoquinoline (CAS 4964-71-0) is a brominated quinoline building block. Its molecular formula is C9H6BrN and its molecular weight is 208.05.
+#### Typical application areas
+The product is used as a halogenated quinoline intermediate for antimalarial and antimicrobial quinoline API families, including Primaquine and Chloroquine chemistry, and for further functionalization in medicinal chemistry research.
+#### Specification checklist
+- CAS 4964-71-0
+- Formula C9H6BrN
+- Molecular weight 208.05
+- Purity 98% min, with current batch COA to be confirmed by the supplier
+#### Frequently asked questions
+- Q: Is 5-bromoquinoline available for small research quantities?
+  A: Please confirm your target quantity with our sales team; availability and packaging can be confirmed for the CAS number.
+- Q: What is the difference between 5-bromoquinoline and 8-bromoquinoline?
+  A: The bromine is attached at a different position of the quinoline ring, which changes the substitution pattern and downstream chemistry. The CAS number must be checked to avoid confusion.
+- Q: Can I request COA and purity data?
+  A: Yes. Include that request with your inquiry so the current batch documentation can be shared.
+- Guide URL: https://www.malongchemicals.com/guides/5-bromoquinoline-applications/
+
+### Pyridine vs Pyrimidine Intermediates: How to Choose the Right Building Block
+Compare pyridine and pyrimidine intermediates for pharmaceutical and agrochemical synthesis, including typical applications, substitution patterns and procurement considerations.
+Pyridine and pyrimidine intermediates are both six-membered nitrogen heterocycles, but their different nitrogen content changes electronic properties and substitution patterns. This guide helps buyers compare the two families.
+#### Structure and substitution
+Pyridine has one nitrogen atom in the ring, while pyrimidine has two nitrogen atoms at the 1 and 3 positions. The difference changes electronic properties and the positions available for substitution.
+#### Typical applications
+- Pyridine and picoline derivatives are used in Vitamin B6 APIs such as Pyridoxine and in neonicotinoid agrochemical chemistry
+- Pyrimidine intermediates are used in kinase inhibitor APIs and sulfonylurea herbicide synthesis
+- Both families support pharmaceutical and agrochemical development across multiple CAS-listed building blocks
+#### How to choose
+Start from the downstream target, then verify the required substitution pattern, halogen or amino position and CAS number. When in doubt, share the target structure or API name with the supplier.
+#### Frequently asked questions
+- Q: Is pyridine or pyrimidine more reactive?
+  A: Reactivity depends on the substitution pattern and reaction conditions rather than the heterocycle alone. The correct choice is usually driven by the downstream target.
+- Q: Can the same synthesis use both pyridine and pyrimidine intermediates?
+  A: They are different scaffolds, so the choice depends on the target molecule. Pyridine and pyrimidine building blocks are not interchangeable by CAS number.
+- Q: How do I verify the CAS number?
+  A: Use the CAS search bar on the website and compare the synonym list on the product page with your specification.
+- Guide URL: https://www.malongchemicals.com/guides/pyridine-vs-pyrimidine-intermediates/
+
+### Benzimidazole Intermediates for Pharmaceutical APIs
+Benzimidazole intermediates support proton pump inhibitors, anticoagulants and anthelmintics. See representative CAS products and procurement guidance.
+Benzimidazole is an important pharmaceutical scaffold. Brominated and methylated benzimidazole intermediates provide the handles needed for API synthesis and medicinal chemistry programs.
+#### Why benzimidazole intermediates matter
+Key targets include proton pump inhibitors Omeprazole and Esomeprazole, the anticoagulant Dabigatran etexilate, and anthelmintics such as Albendazole and Mebendazole.
+#### Representative building blocks
+- 5-Bromo-1H-benzimidazole (CAS 4887-88-1): brominated benzimidazole scaffold for API synthesis
+- 5-Bromo-2-methyl-1H-benzoimidazole (CAS 1964-77-8): methylated bromobenzimidazole for further substitution
+- Benzimidazole intermediates support proton pump inhibitor, anticoagulant and anthelmintic chemistry
+#### Procurement notes
+Confirm the exact substitution position and CAS number because benzimidazole isomers can be close in name but different in structure. Request COA and purity data for the batch before ordering.
+#### Frequently asked questions
+- Q: What APIs use benzimidazole intermediates?
+  A: Examples include proton pump inhibitors, the anticoagulant Dabigatran etexilate and anthelmintic medicines.
+- Q: Are brominated benzimidazoles suitable for cross-coupling?
+  A: Brominated benzimidazoles are commonly used as coupling partners, but the reaction should be validated for the specific scaffold and substitution pattern.
+- Q: Can you confirm current purity and packaging?
+  A: Yes. Send the CAS number and target quantity to request current batch information.
+- Guide URL: https://www.malongchemicals.com/guides/benzimidazole-intermediates-pharmaceuticals/
+
+### Halogenated Aromatic Building Blocks for Cross-Coupling Chemistry
+Brominated, chlorinated and iodinated aromatic intermediates enable Suzuki, Buchwald and related cross-coupling routes. Learn how to compare aryl halide building blocks.
+Aryl halides are foundational building blocks in modern organic synthesis. The position and type of halogen determine how the building block can be used in cross-coupling and functional group chemistry.
+#### Why aryl halides are useful
+Brominated, chlorinated and iodinated aromatics are standard entry points for Suzuki, Buchwald and related cross-coupling reactions. Reactivity generally follows iodide greater than bromide greater than chloride, while bromides offer a good balance of stability and reactivity.
+#### Representative products
+- 1-Bromo-2,4-dimethoxybenzene (CAS 17715-69-4): dimethoxyaryl bromide for pharmaceutical and OLED/OPV monomer chemistry
+- 2-Bromo-1,4-dimethoxybenzene (CAS 25245-34-5): regioisomeric dimethoxyaryl bromide
+- 1,2-Dibromo-4-iodobenzene (CAS 909072-74-8): multihalogenated aryl building block for sequential cross-coupling
+#### How to compare building blocks
+Match the halogen positions to your planned disconnection, check purity and packaging, and verify the CAS number before ordering. For sequential coupling, different halogens allow stepwise functionalization.
+#### Frequently asked questions
+- Q: Which halogen should I choose for cross-coupling?
+  A: The choice depends on reactivity, cost and selectivity. Bromides are common for aryl coupling, while iodides are more reactive and chlorides are more economical.
+- Q: Are methoxy-substituted aryl bromides in the catalog?
+  A: Yes. Examples include 1-bromo-2,4-dimethoxybenzene and 2-bromo-1,4-dimethoxybenzene, which differ by substitution position.
+- Q: Can I request a multihalogenated building block?
+  A: Confirm the CAS number and target quantity, and our team can check availability and specifications.
+- Guide URL: https://www.malongchemicals.com/guides/halogenated-aromatic-building-blocks/
+
+### Agrochemical Intermediates: Product Families and Procurement Guide
+Agrochemical intermediates include halogenated anilines, pyridines, pyrimidines and nitriles used in fungicide, insecticide and herbicide synthesis.
+Agrochemical synthesis uses a broad range of aromatic and heterocyclic intermediates. Understanding which product families map to fungicide, insecticide and herbicide chemistry helps buyers send more accurate inquiries.
+#### Product families
+Pyridine, pyrimidine, aniline and nitrile intermediates are common in agrochemical synthesis. The right building block depends on the target molecule and the functional groups required.
+#### Representative applications
+- Pyridine intermediates are used in neonicotinoid insecticide chemistry
+- Halogenated anilines support fungicide families such as Bixafen and Boscalid
+- Pyrimidine intermediates are used in sulfonylurea herbicide and antimicrobial chemistry
+#### Sourcing guidance
+Share the CAS number, target quantity and registration or specification requirements. Suppliers should be able to confirm purity, packaging and documentation before shipment.
+#### Frequently asked questions
+- Q: What intermediates are most common in agrochemical synthesis?
+  A: Halogenated anilines, pyridines, pyrimidines and nitriles are all common, depending on the target class.
+- Q: Do you supply intermediates for agrochemical registration batches?
+  A: Please share the CAS number, quantity and documentation requirements so the supplier can confirm what is available.
+- Q: Can one intermediate serve both pharma and agro applications?
+  A: Yes. Some building blocks are used in both industries, so the application context matters less than the chemical specification.
+- Guide URL: https://www.malongchemicals.com/guides/agrochemical-intermediates-overview/
+
+### Chemical Intermediate Quality, Packaging and MOQ Guide
+What to check before ordering chemical intermediates: purity, COA, packaging, MOQ, shelf life and shipping. Practical questions for supplier qualification.
+Quality confirmation starts before the order. This guide lists the documents and product details buyers should confirm with a chemical intermediate supplier.
+#### Core documents to check
+- Certificate of Analysis (COA) with CAS number, assay and relevant impurities
+- Formula, molecular weight and physical form
+- Purity or assay method used by the supplier
+- Batch number and packaging information
+#### Packaging and MOQ
+MOQ depends on the product and packaging format. Confirm the available package sizes, container type and required documentation before placing an order.
+#### Shipping and storage
+Ask about shelf life, storage conditions and transport restrictions. These details are especially important for international orders.
+#### Frequently asked questions
+- Q: What is a typical MOQ?
+  A: MOQ varies by product and packaging. Contact us with the CAS number and target quantity for the current minimum.
+- Q: Can I request a sample before a bulk order?
+  A: Share the product and quantity with our sales team to confirm sample availability and any applicable terms.
+- Q: What documents are usually available?
+  A: COA, batch information and packaging details are the most common documents. Specific regulatory documents should be discussed with the supplier.
+- Guide URL: https://www.malongchemicals.com/guides/chemical-intermediate-quality-packaging/
+
+### Indazole and Indole Intermediates for Medicinal Chemistry
+Indazole and indole scaffolds appear in oncology and CNS APIs. See representative building blocks and how to request current specifications.
+Indazole and indole derivatives are widely used in medicinal chemistry programs. Their nitrogen-containing rings and substitution patterns make them valuable scaffolds for API development.
+#### Why these scaffolds matter
+These scaffolds are used in oncology APIs such as Axitinib, Pazopanib and Niraparib, and serotonin/triptan APIs such as Sumatriptan and Rizatriptan.
+#### Representative building blocks
+- 4-Methyl-1H-indazol-5-amine (CAS 101257-89-0): aminomethylindazole building block
+- 5-Aminoindazole (CAS 19335-11-6): aminoindazole scaffold for medicinal chemistry
+- 5-Iodo-1H-indazole (CAS 55919-82-9): iodinated indazole for cross-coupling
+#### Sourcing notes
+Confirm the exact substitution position and CAS number before ordering. Indazole and indole isomers can have very different reactivity and downstream targets.
+#### Frequently asked questions
+- Q: Are indazole and indole the same scaffold?
+  A: No. They are different heterocycles. Indazole has two adjacent nitrogen atoms, while indole has one nitrogen atom in the five-membered ring.
+- Q: What applications use these intermediates?
+  A: Oncology APIs and CNS/neurology chemistry are common application areas.
+- Q: Can I request a custom substitution?
+  A: Share the target structure or CAS number and quantity; feasibility can be confirmed by our sales and technical team.
+- Guide URL: https://www.malongchemicals.com/guides/indazole-indole-intermediates-medicinal-chemistry/
+
+### CAS Number Search: How to Find and Verify Chemical Products
+Use a CAS number search to locate a product quickly and confirm the compound identity. Guide covers exact-match searching, synonyms and supplier verification.
+A CAS number is the most precise way to search for a chemical product. This guide explains how to use exact CAS search and what to check after finding the product page.
+#### Use exact CAS search
+Enter the hyphenated CAS number, such as 1006-47-9, in the search bar on malongchemicals.com. The site returns the exact matching product page.
+#### Verify with synonyms
+Check the synonym list on the product page because commercial names vary between markets. The CAS number is the stable identifier across regions.
+#### What to do if the CAS is not found
+Contact the sales team with the CAS number and target quantity. The product may be available on request or through custom synthesis.
+#### Frequently asked questions
+- Q: Should I include hyphens when searching a CAS number?
+  A: Yes. Use the standard hyphenated format such as 4964-71-0 for the most reliable result.
+- Q: Can I search by product name instead of CAS?
+  A: The site supports browsing by product name and category, but exact CAS search is the fastest way to reach the intended product.
+- Q: What if my CAS number returns no result?
+  A: Send the CAS number to our sales team. The compound may be available on request or producible as a custom intermediate.
+- Guide URL: https://www.malongchemicals.com/guides/cas-search-guide-chemical-procurement/
+
+### Custom Synthesis and Fine Chemical Supply from Changzhou Malong Chemicals
+Beyond catalog intermediates, Malong supports custom synthesis, scale-up and fine chemical supply. Learn what information to share when requesting a custom project.
+Not every target intermediate is available in a standard catalog. Custom synthesis and fine chemical supply help research and production teams obtain the exact building block they need.
+#### When custom synthesis makes sense
+Custom synthesis is useful when a target intermediate is not in the catalog, when a different substitution pattern is required, or when the project needs scale-up from research to commercial quantities.
+#### Information to share
+- Target CAS number or structure
+- Quantity range and purity target
+- Reference to the downstream API or application if available
+- Timeline, packaging and destination requirements
+#### How the process starts
+Share the specification by email or WhatsApp. The team will confirm feasibility, estimated lead time and required documentation before quoting.
+#### Frequently asked questions
+- Q: Do you take on custom synthesis for research quantities?
+  A: Share the target structure, quantity and purity; feasibility and lead time can be confirmed by the team.
+- Q: What information do you need for a custom inquiry?
+  A: A CAS number or structure, target quantity, purity and timeline are the most important details.
+- Q: Can custom synthesis be scaled up?
+  A: Discuss the target quantity and timeline with our team to confirm the scale-up route and available capacity.
+- Guide URL: https://www.malongchemicals.com/guides/custom-synthesis-fine-chemicals/
+
+### 5-Bromo-1H-benzimidazole (CAS 4887-88-1): Applications and Supplier Guide
+5-Bromo-1H-benzimidazole is a benzimidazole building block used in proton pump inhibitor, anticoagulant and anthelmintic API routes. Learn applications and sourcing details.
+CAS 4887-88-1 is the registry number for 5-bromo-1H-benzimidazole, a brominated benzimidazole intermediate used in pharmaceutical and fine chemical synthesis.
+#### Product overview
+We supply 5-bromo-1H-benzimidazole (CAS 4887-88-1) as a high-purity benzimidazole building block. The catalogue specification is 98% min purity; formula and molecular weight are C7H5BrN2 and 197.03.
+#### Applications & downstream uses
+5-bromo-1H-benzimidazole is a benzimidazole building block for benzimidazole APIs, including proton pump inhibitors (Omeprazole, Esomeprazole), Dabigatran etexilate and anthelmintics (Albendazole, Mebendazole).
+#### What to confirm before ordering
+- Exact CAS number and accepted synonym
+- Target purity and analytical specification
+- Packaging, quantity and delivery timeline
+- COA, MSDS and other technical documents if required
+#### Frequently asked questions
+- Q: What is CAS 4887-88-1?
+  A: CAS 4887-88-1 is the Chemical Abstracts Service registry number for 5-bromo-1H-benzimidazole.
+- Q: What is 5-bromo-1H-benzimidazole used for?
+  A: It is a benzimidazole building block for APIs including proton pump inhibitors, Dabigatran etexilate and anthelmintic chemistry.
+- Q: How can I buy 5-bromo-1H-benzimidazole?
+  A: Send the target quantity and specification to info@malongchemicals.com or contact the sales team on WhatsApp.
+- Q: Do you provide COA and MSDS?
+  A: Yes, certificates of analysis and safety documentation can be provided with the quotation on request.
+- Guide URL: https://www.malongchemicals.com/guides/5-bromo-1h-benzimidazole-applications/
+
+### 5-Bromo-2-methyl-1H-benzimidazole (CAS 1964-77-8): Applications and Supplier Guide
+5-Bromo-2-methyl-1H-benzimidazole is a methylated benzimidazole building block for pharmaceutical API synthesis. Review applications, specifications and ordering steps.
+CAS 1964-77-8 is the registry number for 5-bromo-2-methyl-1H-benzimidazole, a brominated methylbenzimidazole intermediate for pharmaceutical building blocks.
+#### Product overview
+We supply 5-bromo-2-methyl-1H-benzimidazole (CAS 1964-77-8) as a high-purity benzimidazole building block. The catalogue specification is 98% min purity; formula and molecular weight are C8H7BrN2 and 211.06.
+#### Applications & downstream uses
+5-bromo-2-methyl-1H-benzimidazole is a benzimidazole building block for benzimidazole APIs, including proton pump inhibitors (Omeprazole, Esomeprazole), Dabigatran etexilate and anthelmintics (Albendazole, Mebendazole).
+#### Sourcing considerations
+- Verify the CAS number against the requested structure
+- Confirm purity, impurity profile and analytical method
+- Check packaging and minimum order quantity
+- Request COA and MSDS before shipment
+#### Frequently asked questions
+- Q: What is CAS 1964-77-8?
+  A: CAS 1964-77-8 is the Chemical Abstracts Service registry number for 5-bromo-2-methyl-1H-benzimidazole.
+- Q: What is 5-bromo-2-methyl-1H-benzimidazole used for?
+  A: It is a methylated benzimidazole building block for APIs including proton pump inhibitors, Dabigatran etexilate and anthelmintic chemistry.
+- Q: How can I order this intermediate?
+  A: Send the CAS number, quantity, purity and destination to the sales team by email or WhatsApp.
+- Q: Can packaging be customized?
+  A: Packaging is confirmed with each inquiry to match R&D or production requirements.
+- Guide URL: https://www.malongchemicals.com/guides/5-bromo-2-methyl-benzimidazole-applications/
+
+### 1-Bromo-2,4-dimethoxybenzene (CAS 17715-69-4): Applications and Supplier Guide
+1-Bromo-2,4-dimethoxybenzene is a polymethoxyaryl bromide for pharmaceutical intermediates and OLED/OPV monomers. See applications and supplier details.
+CAS 17715-69-4 is the registry number for 1-bromo-2,4-dimethoxybenzene, a halogenated aromatic building block with methoxy-substituted aryl chemistry.
+#### Product overview
+We supply 1-bromo-2,4-dimethoxybenzene (CAS 17715-69-4) as a high-purity halogenated aromatic building block. The catalogue specification is 98% min purity; formula and molecular weight are C8H9BrO2 and 217.06.
+#### Applications & downstream uses
+1-Bromo-2,4-dimethoxybenzene is a halogenated aromatic building block for polymethoxyaryl building blocks for pharmaceutical APIs and OLED/OPV monomers (MEH-PPV derivatives).
+#### Quality and sourcing notes
+- Confirm the CAS number and synonym spelling
+- Check purity, appearance and residual solvent specification
+- Confirm packaging, MOQ and shipping terms
+- Request COA and MSDS with the quotation
+#### Frequently asked questions
+- Q: What is CAS 17715-69-4?
+  A: CAS 17715-69-4 is the Chemical Abstracts Service registry number for 1-bromo-2,4-dimethoxybenzene.
+- Q: What is 1-bromo-2,4-dimethoxybenzene used for?
+  A: It is a polymethoxyaryl bromide used for pharmaceutical intermediates and OLED/OPV monomer chemistry such as MEH-PPV derivatives.
+- Q: How can I request a quotation?
+  A: Send the CAS number, quantity, purity and destination to info@malongchemicals.com or WhatsApp the sales team.
+- Q: Do you support custom quantities?
+  A: Yes, packaging and quantities are confirmed with each inquiry based on availability and production planning.
+- Guide URL: https://www.malongchemicals.com/guides/1-bromo-2-4-dimethoxybenzene-applications/
+
+### 4-Bromoveratrole (CAS 2859-78-1): Applications and Supplier Guide
+4-Bromoveratrole is a specialty polymethoxyaryl building block for pharmaceutical and OLED/OPV chemistry. Review applications and procurement guidance.
+CAS 2859-78-1 is the registry number for 4-bromoveratrole, a brominated dimethoxybenzene intermediate used in fine chemical and materials synthesis.
+#### Product overview
+We supply 4-bromoveratrole (CAS 2859-78-1) as a specialty aromatic building block. The catalogue specification is 98% min purity; formula and molecular weight are C8H9BrO2 and 217.06.
+#### Applications & downstream uses
+4-bromoveratrole is a specialty aromatic building block for polymethoxyaryl building blocks for pharmaceutical APIs and OLED/OPV monomers (MEH-PPV derivatives).
+#### How to verify the product
+- Confirm CAS 2859-78-1 and the synonym 4-bromo-1,2-dimethoxybenzene
+- Review purity and analytical specification
+- Confirm packaging and minimum order quantity
+- Request COA, MSDS and shipping documentation
+#### Frequently asked questions
+- Q: What is CAS 2859-78-1?
+  A: CAS 2859-78-1 is the Chemical Abstracts Service registry number for 4-bromoveratrole.
+- Q: What is 4-bromoveratrole used for?
+  A: It is used as a polymethoxyaryl building block for pharmaceutical intermediates and OLED/OPV monomer chemistry such as MEH-PPV derivatives.
+- Q: How can I buy 4-bromoveratrole?
+  A: Contact the sales team with the CAS number, quantity and target specification by email or WhatsApp.
+- Q: Do you provide technical documents?
+  A: COA, MSDS and related technical documentation can be provided on request.
+- Guide URL: https://www.malongchemicals.com/guides/4-bromoveratrole-applications/
+
+### 2-Bromo-1,4-dimethoxybenzene (CAS 25245-34-5): Applications and Supplier Guide
+2-Bromo-1,4-dimethoxybenzene is a 1,4-dimethoxy aryl bromide for pharmaceutical and OLED/OPV building blocks. Review applications and sourcing steps.
+CAS 25245-34-5 is the registry number for 2-bromo-1,4-dimethoxybenzene, a halogenated dimethoxybenzene intermediate for cross-coupling and materials chemistry.
+#### Product overview
+We supply 2-bromo-1,4-dimethoxybenzene (CAS 25245-34-5) as a high-purity halogenated aromatic building block. The catalogue specification is 98% min purity; formula and molecular weight are C8H9BrO2 and 217.06.
+#### Applications & downstream uses
+2-bromo-1,4-dimethoxybenzene is a halogenated aromatic building block for polymethoxyaryl building blocks for pharmaceutical APIs and OLED/OPV monomers (MEH-PPV derivatives).
+#### Ordering checklist
+- Confirm the exact CAS number and synonym
+- Specify purity and analytical requirements
+- Choose packaging and shipping terms
+- Request COA and MSDS before dispatch
+#### Frequently asked questions
+- Q: What is CAS 25245-34-5?
+  A: CAS 25245-34-5 is the Chemical Abstracts Service registry number for 2-bromo-1,4-dimethoxybenzene.
+- Q: What is 2-bromo-1,4-dimethoxybenzene used for?
+  A: It is used as a polymethoxyaryl bromide for pharmaceutical intermediates and OLED/OPV monomer chemistry such as MEH-PPV derivatives.
+- Q: How can I request a quote?
+  A: Send the CAS number, quantity, purity and destination to info@malongchemicals.com or contact the team on WhatsApp.
+- Q: Can I receive a sample?
+  A: Sample availability is confirmed with the inquiry based on the product and target specification.
+- Guide URL: https://www.malongchemicals.com/guides/2-bromo-1-4-dimethoxybenzene-applications/
+
+### Benzoic Acids and Esters for Pharmaceutical and Agrochemical Synthesis
+Benzoic acid and ester intermediates support SGLT2 inhibitor routes, iodinated contrast intermediates, aminobenzoate APIs and agrochemical synthesis.
+Benzoic acids and esters are versatile aromatic building blocks used across pharmaceutical, agrochemical and specialty chemical projects. The substitution pattern determines how the intermediate is used in the next synthetic step.
+#### Why the product family matters
+Benzoic acids and esters support SGLT2 inhibitor chemistry, iodinated pharmaceutical and contrast intermediates, aminobenzoate drugs and chlorobenzoic acid herbicide research.
+#### Representative applications
+The catalogue includes iodinated benzoate building blocks used in SGLT2 inhibitor routes such as Dapagliflozin and Empagliflozin, as well as aminobenzoate chemistry associated with Benzocaine and Procaine-class APIs and agrochemical amide synthesis.
+#### Specifications to confirm
+- Exact CAS number and substitution pattern
+- Acid or ester form required for the route
+- Purity, residual solvent and analytical method
+- Packaging, MOQ and delivery terms
+#### Frequently asked questions
+- Q: What products are included in this family?
+  A: The family includes benzoic acids, benzoate esters and halogenated aromatic acid or ester building blocks used in pharmaceutical and agrochemical synthesis.
+- Q: Which applications use these intermediates?
+  A: Typical examples include SGLT2 inhibitor routes, iodinated contrast or pharmaceutical intermediates, aminobenzoate APIs and agrochemical amide chemistry.
+- Q: How should I specify a benzoic acid or ester?
+  A: Provide the CAS number, substitution pattern, acid or ester form, target purity, quantity and destination.
+- Q: Can you provide COA and MSDS?
+  A: Yes, certificates of analysis and safety documentation can be provided with the quotation on request.
+- Guide URL: https://www.malongchemicals.com/guides/benzoic-acids-esters-applications/
+
+### Benzothiadiazole Intermediates for OLED, OPV and Organic Electronics
+Benzothiadiazole intermediates are used in donor-acceptor conjugated polymers, OLED materials, organic photovoltaics and specialty electronic chemistry.
+Benzothiadiazole building blocks are widely used to introduce electron-accepting units into conjugated materials for OLED, OPV and organic electronic applications.
+#### Why the product family matters
+Benzothiadiazole monomers are widely used for OLED/OPV donor-acceptor polymers such as F8BT, PCDTBT and PCPDTBT and for organic electronic materials.
+#### Representative applications
+Brominated benzothiadiazole intermediates such as 4,7-dibromo-2,1,3-benzothiadiazole and 4-bromo-2,1,3-benzothiadiazole are used in conjugated polymer and organic solar cell research.
+#### Quality and sourcing notes
+- Confirm the exact bromination pattern and CAS number
+- Check purity and residual metal or solvent limits
+- Confirm packaging and light-sensitive handling requirements
+- Request COA, MSDS and analytical data
+#### Frequently asked questions
+- Q: What are benzothiadiazole intermediates used for?
+  A: They are used as electron-accepting building blocks in OLED, OPV and organic electronic materials, including donor-acceptor conjugated polymers.
+- Q: Which polymers use these building blocks?
+  A: Published material systems include F8BT, PCDTBT and PCPDTBT; final polymer selection depends on the project.
+- Q: What should I confirm before ordering?
+  A: Confirm the CAS number, bromination pattern, purity, scale, packaging and analytical requirements.
+- Q: Do you provide technical documentation?
+  A: COA, MSDS and available analytical data can be supplied on request.
+- Guide URL: https://www.malongchemicals.com/guides/benzothiadiazole-oled-opv-intermediates/
+
+### Thiophene Intermediates for Pharmaceuticals and Agrochemicals
+Thiophene intermediates support thieno[3,2-c]pyridine drug chemistry, clopidogrel and ticlopidine routes and agrochemical building blocks.
+Thiophene and halothiophene intermediates are useful heterocyclic building blocks for pharmaceutical and agrochemical synthesis, especially where sulfur-containing heterocycles are required.
+#### Why the product family matters
+Thiophene derivatives support thieno[3,2-c]pyridine drug chemistry such as Clopidogrel and Ticlopidine and thiophene-based agrochemical intermediates.
+#### Representative applications
+Halogenated thiophenes such as 3-bromo-2-chlorothiophene provide reactive handles for further substitution, cross-coupling and heterocycle functionalization.
+#### Procurement checklist
+- Confirm the exact halogenation and substitution pattern
+- Check purity and isomer distribution
+- Confirm packaging, scale and lead time
+- Request COA, MSDS and analytical documentation
+#### Frequently asked questions
+- Q: What are thiophene intermediates used for?
+  A: They are used as heterocyclic building blocks in pharmaceutical chemistry, including thieno[3,2-c]pyridine routes, and in agrochemical synthesis.
+- Q: Which APIs are associated with this chemistry?
+  A: The catalogue references Clopidogrel and Ticlopidine chemistry; suitability for a specific route must be confirmed by the buyer.
+- Q: How should I specify a thiophene intermediate?
+  A: Provide the CAS number, halogenation pattern, purity, quantity, packaging and destination.
+- Q: Do you provide COA and MSDS?
+  A: Yes, documentation can be provided with the quotation on request.
+- Guide URL: https://www.malongchemicals.com/guides/thiophene-intermediates-pharmaceutical-agrochemical/
 
 ## Product Directory
 
